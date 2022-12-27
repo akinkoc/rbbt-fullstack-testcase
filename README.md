@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/110885928/209708647-bcb6d4e1-283e-4900-8446-03d940933274.png)
 
 ![image](https://user-images.githubusercontent.com/110885928/209708668-8c7385c0-0ae3-41ce-9214-0d7634011ffc.png)
+
 ![image](https://user-images.githubusercontent.com/110885928/209708686-b01fe3f9-5a50-4559-8bf6-e214bb932858.png)
 
 Resimlerde'de görülmek üzere her hafta yapılan maçlar sonucunda oluşan bir tahmin algoritması çalışması gerekiyor.
