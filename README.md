@@ -3,9 +3,10 @@
 ### Lig Kuralları
   1. Sadece dört takım simüle edilecek (dilerseniz farklı güçlere sahip takımları seçebilir ve seçilen bu takımların güçlerine göre maçların sonuçlarını belirleyebilirsiniz.)
   2. Diğer kuralları ise (puan, gol, gol farkı vb.) değerler direk türkiyedeki futbol şekline göre ilerleyecek.
-  3. ![clipboard.png](inkdrop://file:kuV-X558s)
-![clipboard.png](inkdrop://file:ehIhVkIF6)
-![clipboard.png](inkdrop://file:7qIrfLK8f)
+![image](https://user-images.githubusercontent.com/110885928/209708647-bcb6d4e1-283e-4900-8446-03d940933274.png)
+
+![image](https://user-images.githubusercontent.com/110885928/209708668-8c7385c0-0ae3-41ce-9214-0d7634011ffc.png)
+![image](https://user-images.githubusercontent.com/110885928/209708686-b01fe3f9-5a50-4559-8bf6-e214bb932858.png)
 
 Resimlerde'de görülmek üzere her hafta yapılan maçlar sonucunda oluşan bir tahmin algoritması çalışması gerekiyor.
 
